@@ -4,7 +4,7 @@
 I build things that think.
 
 CS grad from Lahore 🇵🇰 who spent her final year shipping an AI-powered CRM platform
-with Flutter, FastAPI, Gemini 2.5 Flash, and Twilio — then documented every step of it.
+with Flutter, FastAPI, Gemini 2.5 Flash, and Twilio then documented every step of it.
 I like the messy intersection where machine learning meets real products.
 
 ---
