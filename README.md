@@ -32,7 +32,7 @@ I like the messy intersection where machine learning meets real products.
 
 ## A few things about me
 
-- 🏆 Top **18%** nationally in Pakistan's IT Skills Assessment, NSCT conducted by HEC (82.7 percentile, 33K+ students)
+- 🏆 Top **18%** nationally in Pakistan's IT Skills Assessment, NSCT(National Skills Competency Test) conducted by HEC (82.7 percentile, 33K+ students)
 - 📦 Built and scaled a brand to **PKR 300K revenue** and **78K monthly Pinterest views** before I even graduated
 - 📊 1+ year managing social media growth for international brands — because data is data, whether it's model accuracy or follower curves
 - 🎓 Google Data Analytics Certified · Google Advanced Data Analytics (in progress)
